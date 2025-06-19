@@ -34,7 +34,7 @@ Here are some of the projects I have worked on:
 
 ## Get in Touch
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **Email:** [georgeadorn58@gmail.com](mailto:georgeadorn58@gmail.com)
 - **LinkedIn:** [Your LinkedIn Profile](#)
 - **Twitter:** [@YourTwitterHandle](#)
 
