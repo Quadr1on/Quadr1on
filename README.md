@@ -1,36 +1,6 @@
 <div align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 210" width="1000" height="210" role="img" aria-label="Adorn S George - CSE, AI and ML, Full-Stack Builder">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0C6EE4"/>
-      <stop offset="55%" stop-color="#0B4F9E"/>
-      <stop offset="100%" stop-color="#071A2E"/>
-    </linearGradient>
-    <clipPath id="shape">
-      <path d="M0,0 H1000 V148 C900,190 800,118 700,150 C600,182 500,116 400,150 C300,184 200,118 100,150 C66,161 33,156 0,150 Z"/>
-    </clipPath>
-    <style>
-      .w1 { animation: drift1 9s ease-in-out infinite alternate; }
-      .w2 { animation: drift2 12s ease-in-out infinite alternate; }
-      @keyframes drift1 { from { transform: translateX(-38px); } to { transform: translateX(38px); } }
-      @keyframes drift2 { from { transform: translateX(28px); } to { transform: translateX(-28px); } }
-      .fade { opacity: 0; animation: fadein 1s ease-out 0.15s forwards; }
-      @keyframes fadein { to { opacity: 1; } }
-    </style>
-  </defs>
-
-  <g clip-path="url(#shape)">
-    <rect width="1000" height="210" fill="url(#bg)"/>
-    <path class="w1" d="M-90,118 C60,92 200,150 340,124 C480,98 620,156 760,130 C900,104 1010,140 1130,124 V230 H-90 Z" fill="#FFFFFF" opacity="0.07"/>
-    <path class="w2" d="M-90,150 C80,127 220,174 380,151 C540,128 700,176 860,153 C960,140 1050,160 1130,150 V230 H-90 Z" fill="#FFFFFF" opacity="0.05"/>
-  </g>
-
-  <g class="fade" text-anchor="middle" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
-    <text x="500" y="84" font-size="52" font-weight="700" fill="#FFFFFF" letter-spacing="0.5">Adorn S George</text>
-    <text x="500" y="117" font-size="18" font-weight="500" fill="#D6E6F8" letter-spacing="1.2">CSE &#183; AI &amp; ML &#183; Full-Stack Builder</text>
-  </g>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C6EE4,100:071A2E&height=210&section=header&text=Adorn%20S%20George&fontSize=52&fontColor=FFFFFF&fontAlignY=34&desc=CSE%20·%20AI%20%26%20ML%20·%20Full-Stack%20Builder&descAlignY=54&descSize=18&animation=fadeIn" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=0C6EE4&center=true&vCenter=true&width=700&height=45&lines=Third-year+CSE+(AI+%26+ML)+%40+SRM+Chennai;Shipping+full-stack+products+in+public;Next.js+%C2%B7+FastAPI+%C2%B7+Supabase+%C2%B7+React+Native;Turning+caffeine+into+commits+since+2022" alt="Typing SVG" />
 
