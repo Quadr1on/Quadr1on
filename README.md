@@ -22,7 +22,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-README-Templates/main/assets/line-neon.gif" width="100%" height="3" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0C6EE4,100:071A2E&height=3&section=header" width="100%" height="3" />
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;About Me
 
@@ -40,7 +40,7 @@ const adorn: Developer = {
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-README-Templates/main/assets/line-neon.gif" width="100%" height="3" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0C6EE4,100:071A2E&height=3&section=header" width="100%" height="3" />
 
 ## 🛠️ &nbsp;Tech Arsenal
 
@@ -121,7 +121,7 @@ const adorn: Developer = {
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-README-Templates/main/assets/line-neon.gif" width="100%" height="3" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0C6EE4,100:071A2E&height=3&section=header" width="100%" height="3" />
 
 ## 🚀 &nbsp;Featured Builds
 
@@ -146,8 +146,6 @@ const adorn: Developer = {
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=flat-square)
 
-<a href="https://github.com/YOUR-USERNAME/argra-ai"><img src="https://img.shields.io/badge/View_Repo-0D1117?style=flat-square&logo=github&logoColor=white" /></a>
-
 </td>
 </tr>
 <tr>
@@ -170,30 +168,29 @@ const adorn: Developer = {
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
-<a href="https://github.com/YOUR-USERNAME/habittrackr"><img src="https://img.shields.io/badge/View_Repo-0D1117?style=flat-square&logo=github&logoColor=white" /></a>
-
 </td>
 </tr>
 </table>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-README-Templates/main/assets/line-neon.gif" width="100%" height="3" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0C6EE4,100:071A2E&height=3&section=header" width="100%" height="3" />
 
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Quadr1on&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=0C6EE4&icon_color=0C6EE4&text_color=C9D1D9&ring_color=0C6EE4" />
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quadr1on&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=0C6EE4&text_color=C9D1D9" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Quadr1on&theme=github_dark" />
+<img width="41%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Quadr1on&theme=github_dark" />
 
 <br/>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=Quadr1on&hide_border=true&background=0D1117&stroke=0C6EE4&ring=0C6EE4&fire=FF6B6B&currStreakLabel=0C6EE4&sideNums=C9D1D9&currStreakNum=FFFFFF&dates=8B949E&sideLabels=C9D1D9" />
+<img width="90%" src="https://streak-stats.demolab.com?user=Quadr1on&hide_border=true&background=0D1117&stroke=0C6EE4&ring=0C6EE4&fire=FF6B6B&currStreakLabel=0C6EE4&sideNums=C9D1D9&currStreakNum=FFFFFF&dates=8B949E&sideLabels=C9D1D9&cache_seconds=86400" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Quadr1on&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Quadr1on&theme=github_dark" />
+<img width="41%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Quadr1on&theme=github_dark&utcOffset=5.5" />
 
 <br/>
 
@@ -203,7 +200,7 @@ const adorn: Developer = {
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-README-Templates/main/assets/line-neon.gif" width="100%" height="3" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0C6EE4,100:071A2E&height=3&section=header" width="100%" height="3" />
 
 ## 🐍 &nbsp;Watch My Contributions Get Eaten
 
@@ -219,7 +216,7 @@ const adorn: Developer = {
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-README-Templates/main/assets/line-neon.gif" width="100%" height="3" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0C6EE4,100:071A2E&height=3&section=header" width="100%" height="3" />
 
 <div align="center">
 
