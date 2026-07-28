@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C6EE4,100:071A2E&height=210&section=header&text=Adorn%20S%20George&fontSize=52&fontColor=FFFFFF&fontAlignY=34&desc=CSE%20·%20AI%20%26%20ML%20·%20Full-Stack%20Builder&descAlignY=54&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C6EE4,100:071A2E&height=210&section=header&text=Adorn%20S%20George&fontSize=52&fontColor=FFFFFF&fontAlignY=34&desc=CSE%20%C2%B7%20AI%20%26%20ML%20%C2%B7%20Full-Stack%20Builder&descAlignY=54&descSize=18&animation=fadeIn" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=0C6EE4&center=true&vCenter=true&width=700&height=45&lines=Third-year+CSE+(AI+%26+ML)+%40+SRM+Chennai;Shipping+full-stack+products+in+public;Next.js+%C2%B7+FastAPI+%C2%B7+Supabase+%C2%B7+React+Native;Turning+caffeine+into+commits+since+2022" alt="Typing SVG" />
 
