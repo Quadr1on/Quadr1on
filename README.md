@@ -1,10 +1,3 @@
-<!--
-════════════════════════════════════════════════════════════════
-  ⚙️  SETUP: Find & replace  YOUR-USERNAME  with your GitHub handle
-      Then replace the social links marked with  ← EDIT
-════════════════════════════════════════════════════════════════
--->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C6EE4,100:071A2E&height=210&section=header&text=Adorn%20S%20George&fontSize=52&fontColor=FFFFFF&fontAlignY=34&desc=CSE%20·%20AI%20%26%20ML%20·%20Full-Stack%20Builder&descAlignY=54&descSize=18&animation=fadeIn" width="100%" />
@@ -13,7 +6,7 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/adorn-s-george-1766202a9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/Quadr1on"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="mailto:adornsgeorge@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://adorndev.me"><img src="https://img.shields.io/badge/Portfolio-0C6EE4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -166,7 +159,7 @@ const adorn: Developer = {
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-<a href="https://github.com//denji"><img src="https://img.shields.io/badge/View_Repo-0D1117?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Quadr1on/denji"><img src="https://img.shields.io/badge/View_Repo-0D1117?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -191,7 +184,7 @@ const adorn: Developer = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Quade1on&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=0C6EE4&icon_color=0C6EE4&text_color=C9D1D9&ring_color=0C6EE4" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Quadr1on&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=0C6EE4&icon_color=0C6EE4&text_color=C9D1D9&ring_color=0C6EE4" />
 <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quadr1on&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=0C6EE4&text_color=C9D1D9" />
 
 <br/>
